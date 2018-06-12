@@ -1,0 +1,4 @@
+fiat@   siena@ 2010@ 12500.00@   prata@ 
+ford@   ka@ 2000@ 8500.99@   verde@ 
+hyundai@   hb20@ 2015@ 58500.00@  preto@ 
+toyota@ corolla@ 2018@ 89200.00@ branco@ 
